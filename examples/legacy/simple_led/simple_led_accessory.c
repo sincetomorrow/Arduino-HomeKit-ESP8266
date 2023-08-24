@@ -20,6 +20,7 @@
 #define ACCESSORY_MANUFACTURER ("Arduino Homekit")
 #define ACCESSORY_MODEL  ("ESP8266")
 
+#define PWMRANGE 255
 #define PIN_LED  2//D4
 
 int led_bri = 100; //[0, 100]
